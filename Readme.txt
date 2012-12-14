@@ -1,0 +1,1 @@
+Taken from http://qt.developpez.com/tutoriels/braindeadbzh/customwindow/
